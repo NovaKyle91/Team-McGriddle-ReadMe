@@ -47,11 +47,11 @@ If you wish to run our app/website...
 
 Here are a few images taken from our site to provide for visual examples:
     
-![young pet](PetAdopt_age_young.png)
+![young_pet](../PetAdopt_age_young.png)
 
-![large pet](PetAdopt_size_large.png)
+![large_pet](../PetAdopt_size_large.png)
 
-![dog pet](PetAdopt_type_dog.png)
+![dog_pet](../PetAdopt_type_dog.png)
 
 
 ## Ethical Considerations
